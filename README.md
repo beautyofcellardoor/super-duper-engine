@@ -19,7 +19,9 @@ This is a screenshot from Bejeweled 2. On the left side where it has points and 
 
 Installation:
 •	Install Qt 5.6
+
 •	Open the project
+
 •	Clean all, run qmake, build all, run
 
 Contribution Guidelines: If someone wanted to add something to this project it could be any of the before mentioned things that I said I would add if there was time.
