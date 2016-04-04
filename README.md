@@ -18,12 +18,9 @@ I have yet to think of a name for my game, but my menu will look something simil
 This is a screenshot from Bejeweled 2. On the left side where it has points and a couple of buttons is also where I would like to put my points, timer, and buttons. There’s a bar at the bottom of the screen that fills with the more points the player gets which I may add. And then the play grid. I will also include the equivalent of creating sparkly gems in my game. 
 
 Installation:
-
-•	Install Qt 5.6
-
-•	Open the project
-
-•	Clean all, run qmake, build all, run
+~Install Qt 5.6
+~Open the project
+~Clean all, run qmake, build all, run
 
 Contribution Guidelines: If someone wanted to add something to this project it could be any of the before mentioned things that I said I would add if there was time.
 
