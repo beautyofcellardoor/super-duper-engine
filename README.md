@@ -1,9 +1,9 @@
 # super-duper-engine
 Repository for GUI CST 238
 
-Project Logo: I have absolutely no artistic skills so this is my logo for now, but will most definitely be changed.
+Project Logo: This is a goat picture I found on the internet.
 
-![logo](76b9064e37239143497f2e562ae40502.png)
+![logo](http://www.how-to-draw-funny-cartoons.com/image-files/how-to-draw-a-goat-8.gif)
 
 Description: I am going to make a match-three, Bejeweled clone game but instead of using jewels, I will be using animals for the objects the player is trying to match. Same as Bejeweled I am going to try to do an 8x8-grid space for the game. On the side, I will have a score, a timer, and a button to go back to the menu. The game will play like any other match-three game, and depending on how much time I have, I may also implement a hint button and an end game if there are no more possible moves. If I still have more time after that, I can add different game modes like puzzles, a timed mode, and having to get a target amount of points in under a certain amount of moves. 
 
