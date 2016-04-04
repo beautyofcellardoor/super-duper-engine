@@ -18,8 +18,11 @@ I have yet to think of a name for my game, but my menu will look something simil
 This is a screenshot from Bejeweled 2. On the left side where it has points and a couple of buttons is also where I would like to put my points, timer, and buttons. There’s a bar at the bottom of the screen that fills with the more points the player gets which I may add. And then the play grid. I will also include the equivalent of creating sparkly gems in my game. 
 
 Installation:
+
 •	Install Qt 5.6
+
 •	Open the project
+
 •	Clean all, run qmake, build all, run
 
 Contribution Guidelines: If someone wanted to add something to this project it could be any of the before mentioned things that I said I would add if there was time.
@@ -29,17 +32,29 @@ I don’t have a standard set up yet but I think I will be using camelcase for n
 Bugs: I have not started, so there are currently no bugs.
 
 To-Do List:
+
 •	Make menu
+
 •	Set up a timer, the button to go back to the menu, and an outline for play grid
+
 •	Create a basic version of what the game will look like
+
 •	Include a place for points on the side and the points meter
+
 •	Get the animal icons in place, be able to select them, and swap them
+
 •	Implement game logic
+
   o	Swap logic
+  
   o	Match logic
+  
   o	More tiles falling in
+  
   o	Matching 4 and creating a sparkly one
+  
 •	*Possibly include a hint button and a way to indicate when there’s no more moves
+
 •	*Possibly include other game modes
 
 Contributor List: I will be the only person working on this project.
