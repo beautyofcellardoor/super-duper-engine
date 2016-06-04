@@ -9,15 +9,15 @@ Repository for GUI CST 238
 
 **Technologies:** Qt, QML
 
-**Screenshots:** Currently, I have no actual screenshots of anything I have done so these are all screenshots of other games. 
+**Screenshots:** Here are a couple screenshots from my game.
 
-  ![menu](http://www.androidtapp.com/wp-content/uploads/2013/01/Cogs-Menu.png)
+  ![menu](https://github.com/beautyofcellardoor/super-duper-engine/blob/master/Pictures/menu.jpg)
 
-I have yet to think of a name for my game, but my menu will look something similar to this game, Cogs. There will, hopefully, be numerous game modes to choose from and then a “How to Play”, an “Options” and an “Exit”. I do not think I will add achievements. 
+Here is the menu
 
-![game](http://www.pix123.com/gamesandcash//201601/Jan27/462466_bejeweled2xbla.jpg)
+![game](https://github.com/beautyofcellardoor/super-duper-engine/blob/master/Pictures/play.jpg)
 
-This is a screenshot from Bejeweled 2. On the left side where it has points and a couple of buttons is also where I would like to put my points, timer, and buttons. There’s a bar at the bottom of the screen that fills with the more points the player gets which I may add. And then the play grid. I will also include the equivalent of creating sparkly gems in my game. 
+And here is my game board
 
 **Installation:**
 +	Install Qt 5.6
@@ -28,13 +28,16 @@ This is a screenshot from Bejeweled 2. On the left side where it has points and 
 
 I don’t have a standard set up yet but I think I will be using camelcase for naming variables.
 
-**Bugs:** I have not started, so there are currently no bugs.
+**Bugs:** 
++ The timer starts when you enter the game, not when you go into the play section.
++ When the game board generates sometimes there's already a group of three.
++ I started to implement drag logic, but it doesn't work and is currently not doing what I want.
 
 **To-Do List:**
-+ Make menu
-+ Set up a timer, the button to go back to the menu, and an outline for play grid
-+ Create a basic version of what the game will look like
-+ Include a place for points on the side and the points meter
+x Make menu
+x Set up a timer, the button to go back to the menu, and an outline for play grid
+x Create a basic version of what the game will look like
+x Include a place for points on the side and the points meter
 + Get the animal icons in place, be able to select them, and swap them
 + Implement game logic
   + Swap logic
