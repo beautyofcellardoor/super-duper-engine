@@ -34,10 +34,10 @@ I don’t have a standard set up yet but I think I will be using camelcase for n
 + I started to implement drag logic, but it doesn't work and is currently not doing what I want.
 
 **To-Do List:**
-x Make menu
-x Set up a timer, the button to go back to the menu, and an outline for play grid
-x Create a basic version of what the game will look like
-x Include a place for points on the side and the points meter
++ [X] Make menu
++ [X] Set up a timer, the button to go back to the menu, and an outline for play grid
++ [X] Create a basic version of what the game will look like
++ [X] Include a place for points on the side and the points meter
 + Get the animal icons in place, be able to select them, and swap them
 + Implement game logic
   + Swap logic
